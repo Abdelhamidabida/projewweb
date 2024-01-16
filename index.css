@@ -1,0 +1,92 @@
+body {
+    background: linear-gradient(to right, #00BCD4, #a4dafe, #00BCD4);
+}
+
+.menu {
+    background-color: a10c86;
+    border: 1px solid gray;
+    border-radius: 5px;
+    border-color: rgb(208, 59, 245);
+    border-style: dashed;
+    padding: 10px;
+    position: fixed;
+    top: 1;
+    height: 100%;
+    width: 240px;
+    z-index: 1000;
+}
+
+.menu ul {
+    list-style-type: none;
+
+}
+
+.menu li {
+    float: left;
+}
+
+.menu li a {
+    display: block;
+    color: #fffcfe;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    margin-top: 35px;
+    font-family: Georgia, serif;
+    font-size: 20px;
+
+}
+
+.menu li a:hover {
+    background-color: #a10c86;
+    border-radius: 15px;
+}
+
+.Nom {
+    margin-top: -60px;
+    margin-left: 599px;
+}
+
+.arrondie {
+    border-radius: 10px;
+    margin-left: 350px;
+    margin-top: 60px;
+}
+
+.Prenom {
+    margin-top: -18px;
+    margin-left: 743px;
+}
+
+.AGE {
+    margin-top: -17px;
+    margin-left: 976px;
+}
+
+.nat {
+    margin-top: -17px;
+    margin-left: 1130px;
+}
+
+.qui {
+    margin-top: 119px;
+    margin-left: 356px;
+}
+
+.pric {
+    margin-top: 49px;
+    margin-left: 356px;
+    max-width: 600px;
+    font-family: 'Lato', sans-serif;
+    word-wrap: break-word;
+}
+
+.RS {
+    margin-left: 1145px;
+    margin-top: -240px;
+    text-decoration: none;
+}
+
+.RS a {
+    text-decoration: none;
+}
